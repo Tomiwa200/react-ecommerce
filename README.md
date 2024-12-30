@@ -2,7 +2,7 @@
 
 
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo
 2. Run `npm install`
